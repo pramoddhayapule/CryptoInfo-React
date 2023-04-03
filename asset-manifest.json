@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CryptoInfo-React.git/static/css/main.5eecc496.css",
+    "main.js": "/CryptoInfo-React.git/static/js/main.09798059.js",
+    "index.html": "/CryptoInfo-React.git/index.html",
+    "main.5eecc496.css.map": "/CryptoInfo-React.git/static/css/main.5eecc496.css.map",
+    "main.09798059.js.map": "/CryptoInfo-React.git/static/js/main.09798059.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eecc496.css",
+    "static/js/main.09798059.js"
+  ]
+}
