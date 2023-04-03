@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CryptoInfo-React/static/css/main.5eecc496.css",
-    "main.js": "/CryptoInfo-React/static/js/main.3cbb6fb8.js",
-    "index.html": "/CryptoInfo-React/index.html",
-    "main.5eecc496.css.map": "/CryptoInfo-React/static/css/main.5eecc496.css.map",
-    "main.3cbb6fb8.js.map": "/CryptoInfo-React/static/js/main.3cbb6fb8.js.map"
+    "main.css": "/cryptoinfo-react/static/css/main.5eecc496.css",
+    "main.js": "/cryptoinfo-react/static/js/main.332d66a8.js",
+    "index.html": "/cryptoinfo-react/index.html",
+    "main.5eecc496.css.map": "/cryptoinfo-react/static/css/main.5eecc496.css.map",
+    "main.332d66a8.js.map": "/cryptoinfo-react/static/js/main.332d66a8.js.map"
   },
   "entrypoints": [
     "static/css/main.5eecc496.css",
-    "static/js/main.3cbb6fb8.js"
+    "static/js/main.332d66a8.js"
   ]
 }
