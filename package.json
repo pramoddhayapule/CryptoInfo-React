@@ -1,6 +1,6 @@
 {
-  "homepage": "https://pramoddhayapule.github.io/CryptoInfo-React",
-  "name": "CryptoInfo-React",
+  "homepage": "https://pramoddhayapule.github.io/cryptoInfo-react",
+  "name": "cryptoinfo-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
